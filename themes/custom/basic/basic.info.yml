@@ -1,5 +1,9 @@
 name: Basic Page
 type: theme
 description: 'A basic theme'
-core_version_requirement: '>=9.2'
+core_version_requirement: ^9 || ^10
 base theme: stark
+regions:
+  header: 'Header'
+  content: 'Content'
+  footer: 'Footer'
