@@ -3,7 +3,3 @@ type: theme
 description: 'A basic theme'
 core_version_requirement: ^9 || ^10
 base theme: olivero
-regions:
-  header: 'Header'
-  content: 'Content'
-  footer: 'Footer'
