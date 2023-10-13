@@ -20,7 +20,8 @@
         "drupal/core-composer-scaffold": "^10.1",
         "drupal/core-project-message": "^10.1",
         "drupal/core-recommended": "^10.1",
-        "drupal/core-vendor-hardening": "^10.1"
+        "drupal/core-vendor-hardening": "^10.1",
+        "drupal/uswds": "^2.7"
     },
     "conflict": {
         "drupal/drupal": "*"
