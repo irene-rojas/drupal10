@@ -23,7 +23,8 @@
         "drupal/core-recommended": "^10.1",
         "drupal/core-vendor-hardening": "^10.1",
         "drupal/ctools": "^4.0",
-        "drupal/uswds": "^2.7"
+        "drupal/uswds": "^2.7",
+        "drupal/webform": "^6.2@RC"
     },
     "conflict": {
         "drupal/drupal": "*"
